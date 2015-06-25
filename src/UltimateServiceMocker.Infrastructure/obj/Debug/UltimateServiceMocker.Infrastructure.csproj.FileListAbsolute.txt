@@ -1,0 +1,6 @@
+C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
+C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.Properties.Resources.resources
+C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csproj.GenerateResource.Cache
+C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.dll
+C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.pdb
