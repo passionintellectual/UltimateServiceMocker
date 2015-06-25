@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateServiceMocker.Infrastructure", "..\src\UltimateServiceMocker.Infrastructure\UltimateServiceMocker.Infrastructure.csproj", "{972A669C-31FB-4708-BAE8-E017BC623642}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateServiceMocker.Infrastructure", "src\UltimateServiceMocker.Infrastructure\UltimateServiceMocker.Infrastructure.csproj", "{972A669C-31FB-4708-BAE8-E017BC623642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateServiceMocker", "..\src\UltimateServiceMocker\UltimateServiceMocker.csproj", "{1EF96192-CA5F-4153-84DA-91ACEF859F36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateServiceMocker", "src\UltimateServiceMocker\UltimateServiceMocker.csproj", "{1EF96192-CA5F-4153-84DA-91ACEF859F36}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{03366B09-6F44-4F9A-8054-AE2B021CF917}"
 EndProject
