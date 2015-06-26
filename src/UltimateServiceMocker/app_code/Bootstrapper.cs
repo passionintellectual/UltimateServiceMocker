@@ -21,6 +21,7 @@ namespace UltimateServiceMocker
         {
             base.InitializeShell();
             App.Current.MainWindow = (Window)Shell;
+            App.Current.MainWindow.Show();
         }
     }
 }
