@@ -7,6 +7,8 @@ using System.Windows;
 using Microsoft.Practices.Prism;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Prism.UnityExtensions;
+using Microsoft.Practices.Prism.Modularity;
+using UltimateServiceMocker.Modules;
 
 namespace UltimateServiceMocker
 {
@@ -22,6 +24,16 @@ namespace UltimateServiceMocker
             base.InitializeShell();
             App.Current.MainWindow = (Window)Shell;
             App.Current.MainWindow.Show();
+        }
+        protected override void ConfigureModuleCatalog()
+        {
+            Type tabStripModuleType = typeof(UltimateServiceMocker.Modules.TabstripModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = tabStripModuleType.Name,
+                ModuleType = tabStripModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable,
+            });
         }
     }
 }

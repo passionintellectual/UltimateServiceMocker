@@ -2,11 +2,11 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:prism="http://www.codeplex.com/prism"
-        xmlns:inf="clr-namespace:UltimateServiceMocker.Infrastructure"
+        xmlns:inf="clr-namespace:UltimateServiceMocker.Infrastructure;assembly=UltimateServiceMocker.Infrastructure"
         Title="Shell" >
     <DockPanel  >
-        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="toolbarRegion"></ContentControl>
-        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="contentRegion"></ContentControl>
+        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ToolbarRegion}"></ContentControl>
+        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ContentRegion}"></ContentControl>
 
     </DockPanel>
 </Window>

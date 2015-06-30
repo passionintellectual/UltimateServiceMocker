@@ -133,6 +133,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Modules\TabstripModule\TabstripModule\TabstripModule.csproj">
+      <Project>{1b38a60f-4133-4885-858d-26f11d681cb1}</Project>
+      <Name>TabstripModule</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UltimateServiceMocker.Infrastructure\UltimateServiceMocker.Infrastructure.csproj">
       <Project>{972a669c-31fb-4708-bae8-e017bc623642}</Project>
       <Name>UltimateServiceMocker.Infrastructure</Name>
