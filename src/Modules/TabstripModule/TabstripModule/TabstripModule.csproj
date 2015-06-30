@@ -78,7 +78,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TabstripModule.cs" />
-    <Compile Include="TabstripUC.xaml.cs">
+    <Compile Include="ViewModel\ITabstripViewModel.cs" />
+    <Compile Include="ViewModel\TabstripViewModel.cs" />
+    <Compile Include="View\ITabstripUC.cs" />
+    <Compile Include="View\TabstripUC.xaml.cs">
       <DependentUpon>TabstripUC.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -108,10 +111,16 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="TabstripUC.xaml">
+    <Page Include="View\TabstripUC.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\UltimateServiceMocker.Infrastructure\UltimateServiceMocker.Infrastructure.csproj">
+      <Project>{972a669c-31fb-4708-bae8-e017bc623642}</Project>
+      <Name>UltimateServiceMocker.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -4,9 +4,9 @@ C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastruc
 C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csproj.GenerateResource.Cache
 C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.dll
 C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.pdb
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.Properties.Resources.resources
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csproj.GenerateResource.Cache
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.pdb

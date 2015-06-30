@@ -8,6 +8,6 @@ namespace UltimateServiceMocker.Infrastructure
 {
     public interface IViewModel
     {
-          IView View { get; set; }
+           IView View { get; set; }
     }
 }

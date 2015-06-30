@@ -12,17 +12,33 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using TabstripModule.ViewModel;
+using UltimateServiceMocker.Infrastructure;
 
 namespace TabstripModule
 {
     /// <summary>
     /// Interaction logic for TabstripUC.xaml
     /// </summary>
-    public partial class TabstripUC : UserControl
+    public partial class TabstripUC : UserControl, TabstripModule.View.ITabstripUC
     {
         public TabstripUC()
         {
             InitializeComponent();
+        }
+
+
+
+        public IViewModel ViewModel
+        {
+            get
+            {
+                return (TabstripViewModel)DataContext;
+            }
+            set
+            {
+                DataContext = value;
+            }
         }
     }
 }

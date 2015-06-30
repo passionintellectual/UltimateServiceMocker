@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace UltimateServiceMocker.Infrastructure
 {
-   public interface IView
+    public interface IView
     {
+          IViewModel ViewModel { get; set; }
     }
 }

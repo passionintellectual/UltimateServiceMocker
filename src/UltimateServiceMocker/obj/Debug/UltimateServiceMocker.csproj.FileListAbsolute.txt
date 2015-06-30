@@ -43,31 +43,11 @@ C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker\bin\Debug\
 C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.csprojResolveAssemblyReference.cache
 C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.exe
 C:\Ultimate Service Mocker\Project\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.pdb
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.csprojResolveAssemblyReference.cache
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\Shell.g.cs
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\App.g.cs
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker_MarkupCompile.cache
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.exe
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.pdb
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\UltimateServiceMocker.exe.config
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\UltimateServiceMocker.exe
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\UltimateServiceMocker.pdb
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\UltimateServiceMocker.Infrastructure.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\System.Windows.Interactivity.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\de\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\en\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\es\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\fr\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\it\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\ja\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\ko\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\ru\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\Shell.baml
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\Shell.g.cs
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.g.resources
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.Properties.Resources.resources
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.csproj.GenerateResource.Cache
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\TabstripModule.dll
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\TabstripModule.pdb
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.csprojResolveAssemblyReference.cache
