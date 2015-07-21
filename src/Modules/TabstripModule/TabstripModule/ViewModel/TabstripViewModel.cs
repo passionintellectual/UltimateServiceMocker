@@ -5,22 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using UltimateServiceMocker.Infrastructure;
 using TabstripModule.ViewModel;
+using TabstripModule.View;
 
 namespace TabstripModule.ViewModel
 {
     public class TabstripViewModel:   ITabstripViewModel
     {
 
-          IView View
+        public TabstripViewModel(ITabstripUC view)
         {
-            get
-            {
-                throw new NotImplementedException();
-            }
-            set
-            {
-                throw new NotImplementedException();
-            }
+            this.View = view;
+        }
+
+
+        public IView  View
+        {
+            get;
+            set;
         }
     }
 }

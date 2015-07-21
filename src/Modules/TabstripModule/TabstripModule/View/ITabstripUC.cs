@@ -2,7 +2,7 @@
 using UltimateServiceMocker.Infrastructure;
 namespace TabstripModule.View
 {
-    interface ITabstripUC: IView
+    public interface ITabstripUC: IView
     {
         
     }
