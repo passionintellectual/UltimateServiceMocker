@@ -6,7 +6,9 @@
         Title="Shell" >
     <DockPanel  >
         <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ToolbarRegion}"></ContentControl>
-        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ContentRegion}"></ContentControl>
+        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ContentRegion}">
+            <DataGrid />
+        </ContentControl>
 
     </DockPanel>
 </Window>
