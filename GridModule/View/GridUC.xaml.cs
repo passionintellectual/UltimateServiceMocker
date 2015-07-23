@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GridModule.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,17 +13,30 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using UltimateServiceMocker.Infrastructure;
 
-namespace GridModule
+namespace GridModule.View
 {
     /// <summary>
-    /// Interaction logic for UserControl1.xaml
+    /// Interaction logic for Grid.xaml
     /// </summary>
-    public partial class UserControl1 : UserControl
+    public partial class GridUC : UserControl, IGridUC
     {
-        public UserControl1()
+        public GridUC()
         {
             InitializeComponent();
+        }
+
+        public IViewModel ViewModel
+        {
+            get
+            {
+                return (GridViewModel)DataContext;
+            }
+            set
+            {
+                DataContext = value;
+            }
         }
     }
 }
