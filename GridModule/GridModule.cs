@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UltimateServiceMocker.Infrastructure;
-namespace GridModule
+namespace UltimateServiceMocker.Modules
 {
     public class GridModule : IModule
     {
@@ -27,8 +27,6 @@ namespace GridModule
             _container.RegisterType<GridUC>();
             _container.RegisterType<IGridViewModel, GridViewModel>();
             _container.RegisterType<IGridUC, GridUC>();
-
-
 
             IViewModel vm = _container.Resolve<IGridViewModel>();
 

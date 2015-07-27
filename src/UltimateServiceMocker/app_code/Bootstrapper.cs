@@ -34,6 +34,13 @@ namespace UltimateServiceMocker
                 ModuleType = tabStripModuleType.AssemblyQualifiedName,
                 InitializationMode = InitializationMode.WhenAvailable,
             });
+            Type splitterModuleType = typeof(UltimateServiceMocker.Modules.SplitterModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = splitterModuleType.Name,
+                ModuleType = splitterModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable
+            });
         }
     }
 }

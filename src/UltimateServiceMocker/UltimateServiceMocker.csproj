@@ -133,6 +133,14 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\GridModule\GridModule.csproj">
+      <Project>{e8533417-1e41-4332-b008-89b9655c0c77}</Project>
+      <Name>GridModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SplitterModule\SplitterModule.csproj">
+      <Project>{f7f7594e-3825-4a3e-8a70-6adcfb73a963}</Project>
+      <Name>SplitterModule</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Modules\TabstripModule\TabstripModule\TabstripModule.csproj">
       <Project>{1b38a60f-4133-4885-858d-26f11d681cb1}</Project>
       <Name>TabstripModule</Name>

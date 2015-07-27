@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabstripModule", "src\Modul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridModule", "GridModule\GridModule.csproj", "{E8533417-1E41-4332-B008-89B9655C0C77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitterModule", "SplitterModule\SplitterModule.csproj", "{F7F7594E-3825-4A3E-8A70-6ADCFB73A963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{E8533417-1E41-4332-B008-89B9655C0C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8533417-1E41-4332-B008-89B9655C0C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8533417-1E41-4332-B008-89B9655C0C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F7594E-3825-4A3E-8A70-6ADCFB73A963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F7594E-3825-4A3E-8A70-6ADCFB73A963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F7594E-3825-4A3E-8A70-6ADCFB73A963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F7594E-3825-4A3E-8A70-6ADCFB73A963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +50,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1B38A60F-4133-4885-858D-26F11D681CB1} = {2F95209F-00CF-418A-ADDF-8A8D5BCB46C3}
 		{E8533417-1E41-4332-B008-89B9655C0C77} = {2F95209F-00CF-418A-ADDF-8A8D5BCB46C3}
+		{F7F7594E-3825-4A3E-8A70-6ADCFB73A963} = {2F95209F-00CF-418A-ADDF-8A8D5BCB46C3}
 	EndGlobalSection
 EndGlobal

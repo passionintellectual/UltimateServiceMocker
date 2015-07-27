@@ -71,3 +71,7 @@ D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\zh-Hans\Sy
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.exe
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.pdb
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\GridModule.dll
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\GridModule.pdb
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\SplitterModule.dll
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\SplitterModule.pdb
