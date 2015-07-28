@@ -30,7 +30,7 @@ namespace UltimateServiceMocker.Modules
 
             IViewModel vm = _container.Resolve<IGridViewModel>();
 
-            _manager.Regions[RegionNames.ContentRegion].Add(vm.View);
+            SplitterModule.mgr.Regions[RegionNames.SplitterRegion2].Add(vm.View);
         }
     }
 }

@@ -10,5 +10,8 @@ namespace UltimateServiceMocker.Infrastructure
     {
         public static string ToolbarRegion = "ToolbarRegion";
         public static string ContentRegion = "ContentRegion";
+        public static string SplitterRegion1 = "SplitterRegion1";
+        public static string SplitterRegion2 = "SplitterRegion2";
+
     }
 }

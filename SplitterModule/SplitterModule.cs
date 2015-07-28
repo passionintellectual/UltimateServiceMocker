@@ -17,7 +17,7 @@ namespace UltimateServiceMocker.Modules
     {
          private IUnityContainer _container;
         private IRegionManager _manager;
-
+        public static IRegionManager mgr;
         public SplitterModule(IUnityContainer container, IRegionManager manager)
         {
             _container = container;
@@ -32,7 +32,7 @@ namespace UltimateServiceMocker.Modules
             _container.RegisterType<ISplitterUC, SplitterUC>();
 
             IViewModel vm = _container.Resolve<ISplitterViewModel>();
-            _manager.Regions[RegionNames.ContentRegion].Add(vm.View);
-        }
+           mgr =  _manager.Regions[RegionNames.ContentRegion].Add(vm.View, null, true);
+        } 
     }
 }

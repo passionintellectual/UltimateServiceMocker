@@ -1,6 +1,7 @@
 ﻿<UserControl x:Class="SplitterModule.SplitterUC"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:prism="http://www.codeplex.com/prism"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
         xmlns:inf="clr-namespace:UltimateServiceMocker.Infrastructure;assembly=UltimateServiceMocker.Infrastructure"
@@ -13,10 +14,10 @@
             <RowDefinition Height="5" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.SplitterRegion1}">
+        <ContentControl prism:RegionManager.RegionName="{x:Static inf:RegionNames.SplitterRegion1}"></ContentControl>
 
             <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch" />
-            <ContentControl DockPanel.Dock="Top" prism:RegionManager.RegionName="{x:Static inf:RegionNames.SplitterRegion2}">
+        <ContentControl  prism:RegionManager.RegionName="{x:Static inf:RegionNames.SplitterRegion2}"></ContentControl>
 
     </Grid>
 </UserControl>
