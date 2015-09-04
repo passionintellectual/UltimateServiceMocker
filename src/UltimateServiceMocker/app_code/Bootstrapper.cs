@@ -41,6 +41,14 @@ namespace UltimateServiceMocker
                 ModuleType = splitterModuleType.AssemblyQualifiedName,
                 InitializationMode = InitializationMode.WhenAvailable
             });
+
+            Type gridModuleType = typeof(UltimateServiceMocker.Modules.GridModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = gridModuleType.Name,
+                ModuleType = gridModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable
+            });
         }
     }
 }

@@ -16,7 +16,7 @@ namespace UltimateServiceMocker.Modules
         private IUnityContainer _container;
         private IRegionManager _manager;
 
-        public GridModule(IUnityContainer container, IRegionManager manager)
+        public GridModule(IUnityContainer container, ISplitterRegionManager manager)
         {
             _container = container;
             _manager = manager;
@@ -29,8 +29,12 @@ namespace UltimateServiceMocker.Modules
             _container.RegisterType<IGridUC, GridUC>();
 
             IViewModel vm = _container.Resolve<IGridViewModel>();
+            // _manager.Regions[RegionNames.SplitterRegion2].Add(vm.View);
+            // SplitterModule.mgr.Regions[RegionNames.SplitterRegion2].Add(vm.View);
 
-            SplitterModule.mgr.Regions[RegionNames.SplitterRegion2].Add(vm.View);
+               
+            _manager.Regions[RegionNames.SplitterRegion2].Add(vm.View);
+            
         }
     }
 }

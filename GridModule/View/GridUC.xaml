@@ -7,6 +7,6 @@
              d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
         <DataGrid HorizontalAlignment="Left" VerticalAlignment="Top" Height="77" Width="300"/>
-
+<TextBox Text="Test view" />
     </Grid>
 </UserControl>
