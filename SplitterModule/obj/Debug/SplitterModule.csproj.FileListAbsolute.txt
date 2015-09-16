@@ -1,10 +1,3 @@
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.csprojResolveAssemblyReference.cache
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\View\SplitterUC.baml
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\View\SplitterUC.g.cs
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule_MarkupCompile.cache
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.g.resources
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.Properties.Resources.resources
-D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
 D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\SplitterModule.dll
 D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\SplitterModule.pdb
 D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Composition.dll
@@ -39,5 +32,12 @@ D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\ko\System.Windows.Int
 D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.csprojResolveAssemblyReference.cache
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\View\SplitterUC.baml
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\View\SplitterUC.g.cs
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule_MarkupCompile.cache
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.g.resources
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.Properties.Resources.resources
+D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.dll
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.pdb

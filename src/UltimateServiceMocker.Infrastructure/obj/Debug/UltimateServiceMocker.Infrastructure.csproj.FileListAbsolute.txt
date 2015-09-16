@@ -10,7 +10,6 @@ D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\D
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.pdb
-D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csprojResolveAssemblyReference.cache
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Prism.Composition.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll

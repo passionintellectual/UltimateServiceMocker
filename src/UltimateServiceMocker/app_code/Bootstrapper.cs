@@ -9,12 +9,17 @@ using Microsoft.Practices.Unity;
 using Microsoft.Practices.Prism.UnityExtensions;
 using Microsoft.Practices.Prism.Modularity;
 using UltimateServiceMocker.Modules;
+using Microsoft.Practices.Prism.PubSubEvents;
 
 namespace UltimateServiceMocker
 {
     public class Bootstrapper: UnityBootstrapper
     {
+    //    protected override void ConfigureContainer(){
+    //        base.ConfigureContainer();
+    //        Container.RegisterType<IEventAggregator, EventAggregator>(new ContainerControlledLifetimeManager()); 
 
+    //    }
         protected override System.Windows.DependencyObject CreateShell()
         {
             return Container.Resolve<Shell>();
@@ -39,6 +44,14 @@ namespace UltimateServiceMocker
             {
                 ModuleName = splitterModuleType.Name,
                 ModuleType = splitterModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable
+            });
+
+            Type fiddlerCoreModuleType = typeof(UltimateServiceMocker.Modules.FiddlerCoreModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = fiddlerCoreModuleType.Name,
+                ModuleType = fiddlerCoreModuleType.AssemblyQualifiedName,
                 InitializationMode = InitializationMode.WhenAvailable
             });
 

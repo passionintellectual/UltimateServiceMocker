@@ -68,6 +68,11 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\HttpCaptureEvents\AfterSessionCompleteEvent.cs" />
+    <Compile Include="Business\IDataProvider.cs" />
+    <Compile Include="Business\IHttpCallsProvider.cs" />
+    <Compile Include="Domain\HttpCall.cs" />
+    <Compile Include="Domain\IHttpCall.cs" />
     <Compile Include="ISplitterRegionManager.cs" />
     <Compile Include="IView.cs" />
     <Compile Include="IViewModel.cs" />

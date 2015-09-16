@@ -133,6 +133,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\FiddlerCoreModule\FiddlerCoreModule.csproj">
+      <Project>{42decca8-cabc-483a-93ca-99abac357c03}</Project>
+      <Name>FiddlerCoreModule</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\GridModule\GridModule.csproj">
       <Project>{e8533417-1e41-4332-b008-89b9655c0c77}</Project>
       <Name>GridModule</Name>

@@ -115,6 +115,10 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\business\business.csproj">
+      <Project>{4a3e5d10-2bbe-4d67-8af2-b6ef97b776af}</Project>
+      <Name>business</Name>
+    </ProjectReference>
     <ProjectReference Include="..\src\UltimateServiceMocker.Infrastructure\UltimateServiceMocker.Infrastructure.csproj">
       <Project>{972a669c-31fb-4708-bae8-e017bc623642}</Project>
       <Name>UltimateServiceMocker.Infrastructure</Name>

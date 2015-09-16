@@ -41,3 +41,5 @@ D:\UltimateServiceMocker\solution\GridModule\bin\Debug\zh-Hans\System.Windows.In
 D:\UltimateServiceMocker\solution\GridModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\GridModule\obj\Debug\GridModule.dll
 D:\UltimateServiceMocker\solution\GridModule\obj\Debug\GridModule.pdb
+D:\UltimateServiceMocker\solution\GridModule\bin\Debug\business.dll
+D:\UltimateServiceMocker\solution\GridModule\bin\Debug\business.pdb

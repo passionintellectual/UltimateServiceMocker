@@ -75,3 +75,7 @@ D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\GridModule
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\GridModule.pdb
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\SplitterModule.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\SplitterModule.pdb
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\FiddlerCoreModule.dll
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\FiddlerCore4.dll
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\FiddlerCoreModule.pdb
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\FiddlerCore4.xml
