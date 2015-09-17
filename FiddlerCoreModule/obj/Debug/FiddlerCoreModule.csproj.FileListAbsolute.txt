@@ -41,3 +41,47 @@ D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\zh-Hans\System.Win
 D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.dll
 D:\UltimateServiceMocker\solution\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\FiddlerCoreModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\FiddlerCoreModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\BCMakeCert.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\CertMaker.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\FiddlerCore4.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\System.Windows.Interactivity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\FiddlerCore4.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.csprojResolveAssemblyReference.cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.Properties.Resources.resources
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.csproj.GenerateResource.Cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\FiddlerCoreModule.dll.config

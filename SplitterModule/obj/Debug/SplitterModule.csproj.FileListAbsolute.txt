@@ -41,3 +41,47 @@ D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.Proper
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.dll
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\System.Windows.Interactivity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.csprojResolveAssemblyReference.cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\View\SplitterUC.baml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\View\SplitterUC.g.cs
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule_MarkupCompile.cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.g.resources
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.Properties.Resources.resources
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.dll.config

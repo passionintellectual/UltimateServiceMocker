@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\obj\Debug\
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\
 TabstripModule
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 11072807832
 
 82002128782
-731927674025
+731003502939
 View\TabstripUC.xaml;
 
 False

@@ -41,3 +41,47 @@ D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\bin\
 D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.dll
 D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\TabstripModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\TabstripModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\System.Windows.Interactivity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.csprojResolveAssemblyReference.cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\View\TabstripUC.baml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\View\TabstripUC.g.cs
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule_MarkupCompile.cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.g.resources
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.Properties.Resources.resources
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.csproj.GenerateResource.Cache
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\TabstripModule.dll.config
