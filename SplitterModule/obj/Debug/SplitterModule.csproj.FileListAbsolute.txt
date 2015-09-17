@@ -41,6 +41,7 @@ D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.Proper
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.dll
 D:\UltimateServiceMocker\solution\SplitterModule\obj\Debug\SplitterModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.dll.config
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.pdb
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\Microsoft.Practices.Prism.Composition.dll
@@ -84,4 +85,3 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.pdb
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\bin\Debug\SplitterModule.dll.config

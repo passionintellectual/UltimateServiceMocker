@@ -26,7 +26,7 @@ namespace GridModule.ViewModel
 
         private void AfterSessionComplete(IHttpCall call)
         {
-            httpCalls.Add(new HttpCall()
+            httpCalls.Insert(0, new HttpCall()
             {
                 FullUrl = call.FullUrl
             });

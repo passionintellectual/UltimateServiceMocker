@@ -34,17 +34,10 @@ namespace FiddlerCoreModule
         public HttpCallsProvider(IEventAggregator eventAggregator)
         {
             _eventAggregator = eventAggregator;
+            FiddlerApplication.AfterSessionComplete +=FiddlerApplication_AfterSessionComplete;
 
         }
-        public void StartCapture()
-        {
-            //FiddlerApplication.AfterSessionComplete += FiddlerApplication_AfterSessionComplete;
-            //FiddlerApplication.Startup(0, Fiddler.FiddlerCoreStartupFlags.Default);
-        }
-        public void StopCapture()
-        {
-            //FiddlerApplication.Shutdown();
-        }
+        
 
         private void FiddlerApplication_AfterSessionComplete(Session oSession)
         {

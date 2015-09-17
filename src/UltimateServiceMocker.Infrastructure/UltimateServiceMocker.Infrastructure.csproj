@@ -73,9 +73,11 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\GlobalCommands\GlobalCommands.cs" />
     <Compile Include="Business\HttpCaptureEvents\AfterSessionCompleteEvent.cs" />
     <Compile Include="Business\IDataProvider.cs" />
     <Compile Include="Business\IHttpCallsProvider.cs" />
+    <Compile Include="Business\Services\ICapturingService.cs" />
     <Compile Include="Domain\HttpCall.cs" />
     <Compile Include="Domain\IHttpCall.cs" />
     <Compile Include="ISplitterRegionManager.cs" />
@@ -108,6 +110,7 @@
     </None>
     <AppDesigner Include="Properties\" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

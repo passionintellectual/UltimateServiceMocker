@@ -11,7 +11,8 @@
             <MenuItem Header="_File">
                 <MenuItem Header="_Open"/>
                 <MenuItem Header="_Close"/>
-                <MenuItem Header="_StopCapture" />
+                <MenuItem Header="Stop_Capture" Command="{x:Static business:GlobalCommands.FiddlerApplicationCloseCommand}" />
+                <MenuItem Header="_StartCapture" Command="{x:Static business:GlobalCommands.FiddlerApplicationStartCommand}" />
 
                 <MenuItem Header="_Save"/>
             </MenuItem>

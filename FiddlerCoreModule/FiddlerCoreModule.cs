@@ -1,9 +1,14 @@
-﻿using FiddlerCoreModule;
+﻿using business;
+using Fiddler;
+using FiddlerCoreModule;
 using Microsoft.Practices.Prism.Commands;
 using Microsoft.Practices.Prism.Modularity;
 using Microsoft.Practices.Prism.PubSubEvents;
 using Microsoft.Practices.Unity;
+using System.Windows.Input;
 using UltimateServiceMocker.Infrastructure.Business;
+using UltimateServiceMocker.Infrastructure.Business.Services;
+
 
 namespace UltimateServiceMocker.Modules
 {
@@ -11,6 +16,7 @@ namespace UltimateServiceMocker.Modules
     {
         private IUnityContainer _container;
         private  IEventAggregator _eventAggregator;
+        private ICapturingService capturingService;
         public FiddlerCoreModule(IUnityContainer container, IEventAggregator eventAggregator)
         {
             _container = container;
@@ -18,25 +24,68 @@ namespace UltimateServiceMocker.Modules
             
         }
         private IHttpCallsProvider httpcallsprovider;
+        private System.Windows.Input.ICommand startFiddlerCommand;
+        private System.Windows.Input.ICommand closeFiddlerCommand;
+        private DelegateCommand applicationExitCommand;
         public void Initialize()
         {
-               //GlobalCommands.FiddlerApplicationCloseCommand.RegisterCommand(new DelegateCommand(CloseFiddler, CanClose));
 
             _container.RegisterType<IHttpCallsProvider, HttpCallsProvider>(new ContainerControlledLifetimeManager());
 
               httpcallsprovider = _container.Resolve<IHttpCallsProvider>();
-            httpcallsprovider.StartCapture();
+              _container.RegisterType<ICapturingService, CapturingService>();
 
+              capturingService = _container.Resolve<ICapturingService>();
+
+              startFiddlerCommand = new DelegateCommand(StartFiddler, CanStart);
+              closeFiddlerCommand = new DelegateCommand(CloseFiddler, CanClose);
+              applicationExitCommand = new DelegateCommand(ApplicationExited, CanApplicationExit);
+              GlobalCommands.FiddlerApplicationCloseCommand.RegisterCommand(closeFiddlerCommand);
+              GlobalCommands.FiddlerApplicationStartCommand.RegisterCommand(startFiddlerCommand);
+            GlobalCommands.ApplicationExitCommand.RegisterCommand(applicationExitCommand);
+              capturingService.Start();
+
+
+        }
+
+        private void ApplicationExited()
+        {
+            capturingService.Stop();
+        }
+
+        private bool CanApplicationExit()
+        {
+            return true;
+        }
+
+        private bool CanStart()
+        {
+            return capturingService.CanStart();
+        }
+
+        private void StartFiddler()
+        {
+            capturingService.Start();
+            invalidateCommands();
+
+            
+        }
+
+        private void invalidateCommands()
+        {
+            ((DelegateCommandBase)closeFiddlerCommand).RaiseCanExecuteChanged();
+            ((DelegateCommandBase)startFiddlerCommand).RaiseCanExecuteChanged();
         }
 
         public void CloseFiddler()
         {
-            httpcallsprovider.StopCapture();
+            capturingService.Stop();
+            invalidateCommands();
         }
 
         public bool CanClose()
         {
-            return true;
+            return capturingService.CanStop();
         }
     }
 }
