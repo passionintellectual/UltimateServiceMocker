@@ -65,4 +65,3 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.pdb
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.dll.config
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csprojResolveAssemblyReference.cache

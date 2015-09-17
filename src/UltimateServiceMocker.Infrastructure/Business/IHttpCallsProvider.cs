@@ -13,5 +13,6 @@ namespace UltimateServiceMocker.Infrastructure.Business
 
           IEnumerable<IHttpCall> HttpCalls { get; set; }
           void StartCapture();
+          void StopCapture();
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Fiddler;
+using Microsoft.Practices.Prism.Commands;
 using Microsoft.Practices.Prism.PubSubEvents;
 using System;
 using System.Collections.Generic;
@@ -37,8 +38,12 @@ namespace FiddlerCoreModule
         }
         public void StartCapture()
         {
-            FiddlerApplication.AfterSessionComplete += FiddlerApplication_AfterSessionComplete;
-            FiddlerApplication.Startup(8080, true, true, true);
+            //FiddlerApplication.AfterSessionComplete += FiddlerApplication_AfterSessionComplete;
+            //FiddlerApplication.Startup(0, Fiddler.FiddlerCoreStartupFlags.Default);
+        }
+        public void StopCapture()
+        {
+            //FiddlerApplication.Shutdown();
         }
 
         private void FiddlerApplication_AfterSessionComplete(Session oSession)

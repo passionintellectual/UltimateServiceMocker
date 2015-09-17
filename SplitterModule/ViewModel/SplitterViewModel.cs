@@ -8,18 +8,15 @@ using UltimateServiceMocker.Infrastructure;
 
 namespace SplitterModule.ViewModel
 {
-    public class SplitterViewModel : ISplitterViewModel
+    public class SplitterViewModel : ViewModelBase,  ISplitterViewModel
     {
         public SplitterViewModel(ISplitterUC  view)
+            : base(view)
         {
-            this.View = view;
+           
         }
 
 
-        public IView View
-        {
-            get;
-            set;
-        }
+
     }
 }

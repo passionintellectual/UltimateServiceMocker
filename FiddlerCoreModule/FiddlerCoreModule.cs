@@ -1,4 +1,5 @@
 ﻿using FiddlerCoreModule;
+using Microsoft.Practices.Prism.Commands;
 using Microsoft.Practices.Prism.Modularity;
 using Microsoft.Practices.Prism.PubSubEvents;
 using Microsoft.Practices.Unity;
@@ -16,13 +17,26 @@ namespace UltimateServiceMocker.Modules
             _eventAggregator = eventAggregator;
             
         }
-
+        private IHttpCallsProvider httpcallsprovider;
         public void Initialize()
         {
+               //GlobalCommands.FiddlerApplicationCloseCommand.RegisterCommand(new DelegateCommand(CloseFiddler, CanClose));
+
             _container.RegisterType<IHttpCallsProvider, HttpCallsProvider>(new ContainerControlledLifetimeManager());
 
-            var httpcallsprovider = _container.Resolve<IHttpCallsProvider>();
+              httpcallsprovider = _container.Resolve<IHttpCallsProvider>();
             httpcallsprovider.StartCapture();
+
+        }
+
+        public void CloseFiddler()
+        {
+            httpcallsprovider.StopCapture();
+        }
+
+        public bool CanClose()
+        {
+            return true;
         }
     }
 }
