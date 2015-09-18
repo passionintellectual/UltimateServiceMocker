@@ -8,6 +8,7 @@ using Microsoft.Practices.Unity;
 using System.Windows.Input;
 using UltimateServiceMocker.Infrastructure.Business;
 using UltimateServiceMocker.Infrastructure.Business.Services;
+using UltimateServiceMocker.Infrastructure.Core.Persistence;
 
 
 namespace UltimateServiceMocker.Modules
@@ -33,9 +34,9 @@ namespace UltimateServiceMocker.Modules
             _container.RegisterType<IHttpCallsProvider, HttpCallsProvider>(new ContainerControlledLifetimeManager());
 
               httpcallsprovider = _container.Resolve<IHttpCallsProvider>();
-              _container.RegisterType<ICapturingService, CapturingService>();
+              _container.RegisterType<IKeyValuePersister<string, string>, AppKeyValuePersister<string>>();
 
-              capturingService = _container.Resolve<ICapturingService>();
+              _container.RegisterType<ICapturingService, CapturingService>();
 
               startFiddlerCommand = new DelegateCommand(StartFiddler, CanStart);
               closeFiddlerCommand = new DelegateCommand(CloseFiddler, CanClose);
@@ -43,6 +44,8 @@ namespace UltimateServiceMocker.Modules
               GlobalCommands.FiddlerApplicationCloseCommand.RegisterCommand(closeFiddlerCommand);
               GlobalCommands.FiddlerApplicationStartCommand.RegisterCommand(startFiddlerCommand);
             GlobalCommands.ApplicationExitCommand.RegisterCommand(applicationExitCommand);
+            _container.RegisterType<ICertificateService, CertificateService>(new ContainerControlledLifetimeManager());
+            capturingService = _container.Resolve<ICapturingService>();
               capturingService.Start();
 
 
