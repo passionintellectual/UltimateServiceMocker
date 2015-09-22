@@ -82,11 +82,13 @@
     <Compile Include="Core\Persistence\IKeyValuePersister.cs" />
     <Compile Include="Core\Persistence\IPersister.cs" />
     <Compile Include="Core\Persistence\AppKeyValuePersister.cs" />
+    <Compile Include="Core\PrismHelper\IRegionManagerProvider.cs" />
+    <Compile Include="Core\PrismHelper\RegionManagerProvider.cs" />
     <Compile Include="Domain\HttpCall.cs" />
     <Compile Include="Domain\IHttpCall.cs" />
-    <Compile Include="ISplitterRegionManager.cs" />
-    <Compile Include="IView.cs" />
-    <Compile Include="IViewModel.cs" />
+    <Compile Include="Core\PrismHelper\ISplitterRegionManager.cs" />
+    <Compile Include="Core\PrismHelper\IView.cs" />
+    <Compile Include="Core\PrismHelper\IViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -101,7 +103,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <Compile Include="RegionNames.cs" />
-    <Compile Include="ViewModelBase.cs" />
+    <Compile Include="Core\PrismHelper\ViewModelBase.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

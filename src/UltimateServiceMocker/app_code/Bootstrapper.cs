@@ -10,16 +10,19 @@ using Microsoft.Practices.Prism.UnityExtensions;
 using Microsoft.Practices.Prism.Modularity;
 using UltimateServiceMocker.Modules;
 using Microsoft.Practices.Prism.PubSubEvents;
+using UltimateServiceMocker.Infrastructure;
+using UltimateServiceMocker.app_code;
 
 namespace UltimateServiceMocker
 {
     public class Bootstrapper: UnityBootstrapper
     {
-    //    protected override void ConfigureContainer(){
-    //        base.ConfigureContainer();
-    //        Container.RegisterType<IEventAggregator, EventAggregator>(new ContainerControlledLifetimeManager()); 
+        protected override void ConfigureContainer()
+        {
+            base.ConfigureContainer();
+            Container.RegisterType<IRegionManagerHelper, RegionManagerProvider>(new ContainerControlledLifetimeManager());
 
-    //    }
+        }
         protected override System.Windows.DependencyObject CreateShell()
         {
             return Container.Resolve<Shell>();

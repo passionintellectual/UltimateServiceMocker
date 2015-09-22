@@ -41,8 +41,6 @@ D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\bin\
 D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.dll
 D:\UltimateServiceMocker\solution\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.pdb
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.csprojResolveAssemblyReference.cache
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule_MarkupCompile.cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\TabstripModule.dll.config
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\TabstripModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\TabstripModule.pdb
@@ -78,8 +76,10 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.csprojResolveAssemblyReference.cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\View\TabstripUC.baml
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\View\TabstripUC.g.cs
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule_MarkupCompile.cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.g.resources
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.Properties.Resources.resources
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\Modules\TabstripModule\TabstripModule\obj\Debug\TabstripModule.csproj.GenerateResource.Cache

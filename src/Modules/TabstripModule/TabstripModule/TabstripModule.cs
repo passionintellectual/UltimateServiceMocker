@@ -16,9 +16,9 @@ namespace UltimateServiceMocker.Modules
     public class TabstripModule:IModule
     {
         private IUnityContainer _container;
-        private IRegionManager _manager;
+        private IRegionManagerHelper _manager;
 
-        public TabstripModule(IUnityContainer container, IRegionManager     manager)
+        public TabstripModule(IUnityContainer container, IRegionManagerHelper manager)
         {
             _container = container;
             _manager = manager;
@@ -34,7 +34,8 @@ namespace UltimateServiceMocker.Modules
 
             IViewModel vm = _container.Resolve<ITabstripViewModel>();
 
-            _manager.Regions[RegionNames.ToolbarRegion].Add(vm.View);
+            //_manager.Regions[RegionNames.ToolbarRegion].Add(vm.View);
+            _manager.AddView(RegionNames.ToolbarRegion, vm);
         }
     }
 }

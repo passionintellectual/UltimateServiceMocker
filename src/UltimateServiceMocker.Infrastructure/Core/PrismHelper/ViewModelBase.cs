@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace UltimateServiceMocker.Infrastructure
 {
-    public class ViewModelBase: IViewModel, INotifyPropertyChanged
+    public abstract class ViewModelBase: IViewModel, INotifyPropertyChanged
     {
         public IView View { get; set; }
         public event PropertyChangedEventHandler PropertyChanged = delegate { };

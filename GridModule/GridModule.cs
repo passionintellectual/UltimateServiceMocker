@@ -15,7 +15,6 @@ namespace UltimateServiceMocker.Modules
         {
             _container = container;
             _manager = manager;
-            
         }
 
         public void Initialize()

@@ -58,6 +58,7 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\Microsoft.Practices.Unity.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\FiddlerCore4.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\System.Windows.Interactivity.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\business.pdb
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
@@ -70,6 +71,7 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\Microsoft.Practices.Unity.xml
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\FiddlerCore4.xml
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
@@ -89,5 +91,3 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\obj\Debug\GridModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\obj\Debug\GridModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\obj\Debug\GridModule.pdb
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\FiddlerCore4.dll
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\bin\Debug\FiddlerCore4.xml

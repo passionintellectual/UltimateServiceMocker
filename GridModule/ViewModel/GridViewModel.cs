@@ -12,7 +12,6 @@ namespace GridModule.ViewModel
      
    public class GridViewModel: ViewModelBase,  IGridViewModel
     {
-       public int countu { get; set; }
        IEventAggregator _eventAggregator;
        public DelegateCommand cmd { get; set; }
         public GridViewModel(IGridUC view , IEventAggregator eventAggregator) : base(view)
