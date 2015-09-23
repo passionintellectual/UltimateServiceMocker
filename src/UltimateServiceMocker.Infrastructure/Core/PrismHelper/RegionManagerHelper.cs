@@ -23,9 +23,13 @@ namespace UltimateServiceMocker.Infrastructure.Core.PrismHelper
             _regionManager.AddToRegion(regionName, vm.View);
         }
 
-        public void AddScopedRegionView(string p, IViewModel vm)
+        public void AddScopedRegionView(string regionName, IViewModel vm)
         {
-             
+            var instance = _regionManager.AddToR(regionName, vm.View, true);
+            
+            _container.RegisterInstance<IRegionManager>(regionName, instance);
+
+
         }
     }
 }
