@@ -87,3 +87,6 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.pdb
+D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\FiddlerCoreModule.dll.config
+D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\business.dll
+D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\business.pdb

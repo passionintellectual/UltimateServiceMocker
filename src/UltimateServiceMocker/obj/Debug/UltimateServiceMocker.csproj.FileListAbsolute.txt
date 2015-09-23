@@ -117,3 +117,5 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.exe
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.pdb
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\business.dll
+D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\business.pdb

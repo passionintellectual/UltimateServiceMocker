@@ -5,14 +5,10 @@ D:\UltimateServiceMocker\solution\business\bin\Debug\CertMaker.dll
 D:\UltimateServiceMocker\solution\business\bin\Debug\FiddlerCore4.dll
 D:\UltimateServiceMocker\solution\business\bin\Debug\UltimateServiceMocker.Infrastructure.dll
 D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.Composition.dll
-D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
-D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
 D:\UltimateServiceMocker\solution\business\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
 D:\UltimateServiceMocker\solution\business\bin\Debug\FiddlerCore4.xml
 D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.Composition.xml
-D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
 D:\UltimateServiceMocker\solution\business\obj\Debug\business.csprojResolveAssemblyReference.cache
 D:\UltimateServiceMocker\solution\business\obj\Debug\business.dll
@@ -35,3 +31,8 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\business\obj\Debug\business.csprojResolveAssemblyReference.cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\business\obj\Debug\business.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\business\obj\Debug\business.pdb
+D:\UltimateServiceMocker\solution\business\bin\Debug\business.dll.config
+D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Unity.dll
+D:\UltimateServiceMocker\solution\business\bin\Debug\Microsoft.Practices.Unity.xml

@@ -16,10 +16,10 @@ namespace UltimateServiceMocker.Modules
    public class SplitterModule: IModule
     {
          private IUnityContainer _container;
-        private IRegionManager _manager;
+         private IRegionManagerHelper _manager;
 
         
-        public SplitterModule(IUnityContainer container, IRegionManager manager)
+        public SplitterModule(IUnityContainer container, IRegionManagerHelper manager)
         {
             _container = container;
             _manager = manager;
@@ -34,10 +34,10 @@ namespace UltimateServiceMocker.Modules
 
 
             IViewModel vm = _container.Resolve<ISplitterViewModel>();
-            var splitRegionManager = _manager.Regions[RegionNames.ContentRegion].Add(vm.View, null, true);
+
             _container.RegisterInstance<ISplitterRegionManager>(new SplitterRegionManager(splitRegionManager));
 
-        
+            _manager.AddScopedRegionView(RegionNames.ContentRegion, vm);
 
         } 
     }

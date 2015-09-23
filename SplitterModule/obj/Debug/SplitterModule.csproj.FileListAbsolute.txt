@@ -85,3 +85,4 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\SplitterModule\obj\Debug\SplitterModule.pdb
+D:\UltimateServiceMocker\solution\SplitterModule\bin\Debug\SplitterModule.dll.config

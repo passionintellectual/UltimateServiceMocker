@@ -91,3 +91,6 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\obj\Debug\GridModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\obj\Debug\GridModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\GridModule\obj\Debug\GridModule.pdb
+D:\UltimateServiceMocker\solution\GridModule\bin\Debug\GridModule.dll.config
+D:\UltimateServiceMocker\solution\GridModule\bin\Debug\FiddlerCore4.dll
+D:\UltimateServiceMocker\solution\GridModule\bin\Debug\FiddlerCore4.xml
