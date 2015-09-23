@@ -10,11 +10,12 @@ namespace UltimateServiceMocker.Modules
     {
         private IUnityContainer _container;
         private IRegionManager _manager;
-
-        public GridModule(IUnityContainer container, ISplitterRegionManager manager)
+        
+        public GridModule(IUnityContainer container)
         {
             _container = container;
-            _manager = manager;
+            
+            _manager = _container.Resolve<IRegionManager>(RegionNames.SplitterRegionManager);
         }
 
         public void Initialize()

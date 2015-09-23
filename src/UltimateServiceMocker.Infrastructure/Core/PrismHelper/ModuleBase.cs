@@ -5,18 +5,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace UltimateServiceMocker.Infrastructure
+namespace UltimateServiceMocker.Infrastructure.Core.PrismHelper
 {
     public class ModuleBase :IModule
     {
-        protected UnityContainer _container;
-        public ModuleBase(UnityContainer container)
+        protected IUnityContainer _container;
+        protected IRegionManagerHelper _regionManagerHelper;
+        public ModuleBase(IUnityContainer container, IRegionManagerHelper manager)
         {
             _container = container;
+            _regionManagerHelper = manager;
         }
+
         public virtual void Initialize()
         {
-             
+ 
         }
     }
 }

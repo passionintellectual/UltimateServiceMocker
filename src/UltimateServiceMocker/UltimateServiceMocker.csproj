@@ -96,7 +96,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="app_code\RegionManagerProvider.cs" />
     <Compile Include="Shell.xaml.cs">
       <DependentUpon>Shell.xaml</DependentUpon>
     </Compile>
@@ -146,9 +145,17 @@
       <Project>{e8533417-1e41-4332-b008-89b9655c0c77}</Project>
       <Name>GridModule</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\HttpCallDetailModule\HttpCallDetailModule.csproj">
+      <Project>{dc0873b6-c412-4e53-9e49-bbf0c20d5bec}</Project>
+      <Name>HttpCallDetailModule</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\SplitterModule\SplitterModule.csproj">
       <Project>{f7f7594e-3825-4a3e-8a70-6adcfb73a963}</Project>
       <Name>SplitterModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TabsModule\TabsModule.csproj">
+      <Project>{ee00b9e0-6699-4352-bcc1-b1cc0de85552}</Project>
+      <Name>TabsModule</Name>
     </ProjectReference>
     <ProjectReference Include="..\Modules\TabstripModule\TabstripModule\TabstripModule.csproj">
       <Project>{1b38a60f-4133-4885-858d-26f11d681cb1}</Project>

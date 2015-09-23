@@ -36,7 +36,7 @@ namespace UltimateServiceMocker.Modules
             IViewModel vm = _container.Resolve<ISplitterViewModel>();
 
            
-            _manager.AddScopedRegionView(RegionNames.ContentRegion, vm);
+            _manager.AddScopedRegionView(RegionNames.SplitterRegionManager , RegionNames.ContentRegion, vm);
 
         } 
     }

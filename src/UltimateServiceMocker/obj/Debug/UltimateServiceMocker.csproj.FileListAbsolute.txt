@@ -119,3 +119,7 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\obj\Debug\UltimateServiceMocker.pdb
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\business.dll
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker\bin\Debug\business.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\bin\Debug\HttpCallDetailModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\bin\Debug\TabsModule.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\bin\Debug\HttpCallDetailModule.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker\bin\Debug\TabsModule.pdb

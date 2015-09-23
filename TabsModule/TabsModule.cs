@@ -6,20 +6,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TabsModule.View;
+using TabsModule.ViewModel;
 using UltimateServiceMocker.Infrastructure;
+using UltimateServiceMocker.Infrastructure.CommonControls;
+using UltimateServiceMocker.Infrastructure.Core.PrismHelper;
 
-namespace TabsModule
+namespace UltimateServiceMocker.Modules
 {
     public class TabsModule:ModuleBase
     {
-        
-        public TabsModule(UnityContainer container,  IRegionManagerHelper regionManagerProvider) : base(container)
+
+        public TabsModule(UnityContainer container, IRegionManagerHelper regionManagerProvider)
+            : base(container, regionManagerProvider)
         {
 
         }
         public override void Initialize()
         {
             _container.RegisterType<ITabsUC, TabsUC>();
+            _container.RegisterType<ITabsViewModel, TabsViewModel>();
         }
     }
 }

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiddlerCoreModule", "Fiddle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabsModule", "TabsModule\TabsModule.csproj", "{EE00B9E0-6699-4352-BCC1-B1CC0DE85552}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCallDetailModule", "HttpCallDetailModule\HttpCallDetailModule.csproj", "{DC0873B6-C412-4E53-9E49-BBF0C20D5BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{EE00B9E0-6699-4352-BCC1-B1CC0DE85552}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE00B9E0-6699-4352-BCC1-B1CC0DE85552}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE00B9E0-6699-4352-BCC1-B1CC0DE85552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0873B6-C412-4E53-9E49-BBF0C20D5BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0873B6-C412-4E53-9E49-BBF0C20D5BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0873B6-C412-4E53-9E49-BBF0C20D5BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0873B6-C412-4E53-9E49-BBF0C20D5BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,5 +78,6 @@ Global
 		{4A3E5D10-2BBE-4D67-8AF2-B6EF97B776AF} = {03366B09-6F44-4F9A-8054-AE2B021CF917}
 		{42DECCA8-CABC-483A-93CA-99ABAC357C03} = {2F95209F-00CF-418A-ADDF-8A8D5BCB46C3}
 		{EE00B9E0-6699-4352-BCC1-B1CC0DE85552} = {2F95209F-00CF-418A-ADDF-8A8D5BCB46C3}
+		{DC0873B6-C412-4E53-9E49-BBF0C20D5BEC} = {2F95209F-00CF-418A-ADDF-8A8D5BCB46C3}
 	EndGlobalSection
 EndGlobal

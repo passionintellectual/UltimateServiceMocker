@@ -65,7 +65,6 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.pdb
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csprojResolveAssemblyReference.cache
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\UltimateServiceMocker.Infrastructure.dll.config
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csprojResolveAssemblyReference.cache
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
@@ -74,3 +73,10 @@ D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\D
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\UltimateServiceMocker\solution\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\src\UltimateServiceMocker.Infrastructure\obj\Debug\UltimateServiceMocker.Infrastructure.csprojResolveAssemblyReference.cache

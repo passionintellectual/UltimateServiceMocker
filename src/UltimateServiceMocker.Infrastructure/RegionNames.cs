@@ -14,7 +14,9 @@ namespace UltimateServiceMocker.Infrastructure
         public static string SplitterRegion2 = "SplitterRegion2";
 
 
-       
 
+
+
+        public static string SplitterRegionManager = "SplitterRegionManager";
     }
 }

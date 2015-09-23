@@ -82,7 +82,6 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
-D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.csprojResolveAssemblyReference.cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.Properties.Resources.resources
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.dll
@@ -90,3 +89,4 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\FiddlerCoreModule.dll.config
 D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\business.dll
 D:\UltimateServiceMocker\solution\FiddlerCoreModule\bin\Debug\business.pdb
+D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\FiddlerCoreModule\obj\Debug\FiddlerCoreModule.csprojResolveAssemblyReference.cache

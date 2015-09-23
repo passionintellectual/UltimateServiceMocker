@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Practices.Prism.Regions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +10,7 @@ namespace UltimateServiceMocker.Infrastructure
     {
         void AddView(string regionName, IViewModel vm);
 
-        void AddScopedRegionView(string p, IViewModel vm);
+        void AddChildView(string regionManagerName, string regionName, IViewModel vm);
+        IRegionManager AddScopedRegionView(string scopedRegionManagerName, string regionManager, IViewModel vm);
     }
 }

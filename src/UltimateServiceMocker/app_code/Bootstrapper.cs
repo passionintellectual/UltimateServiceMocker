@@ -11,7 +11,7 @@ using Microsoft.Practices.Prism.Modularity;
 using UltimateServiceMocker.Modules;
 using Microsoft.Practices.Prism.PubSubEvents;
 using UltimateServiceMocker.Infrastructure;
-using UltimateServiceMocker.app_code;
+using UltimateServiceMocker.Infrastructure.Core.PrismHelper;
 
 namespace UltimateServiceMocker
 {
@@ -20,7 +20,7 @@ namespace UltimateServiceMocker
         protected override void ConfigureContainer()
         {
             base.ConfigureContainer();
-            Container.RegisterType<IRegionManagerHelper, RegionManagerProvider>(new ContainerControlledLifetimeManager());
+            Container.RegisterType<IRegionManagerHelper,  RegionManagerHelper>(new ContainerControlledLifetimeManager());
 
         }
         protected override System.Windows.DependencyObject CreateShell()
@@ -65,6 +65,24 @@ namespace UltimateServiceMocker
                 ModuleType = gridModuleType.AssemblyQualifiedName,
                 InitializationMode = InitializationMode.WhenAvailable
             });
+
+            Type httpCallsDetailModuleType = typeof(UltimateServiceMocker.Modules.HttpCallDetailModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = httpCallsDetailModuleType.Name,
+                ModuleType = httpCallsDetailModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable
+            });
+
+            Type tabsModuleType = typeof(UltimateServiceMocker.Modules.TabsModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = tabsModuleType.Name,
+                ModuleType = tabsModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable
+            });
+
+
         }
     }
 }
