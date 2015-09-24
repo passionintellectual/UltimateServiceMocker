@@ -39,7 +39,7 @@ namespace UltimateServiceMocker.Infrastructure.Core.PrismHelper
         {
             var instance = _regionManager.Regions[regionName].Add(vm.View, null, true);
 
-            _container.RegisterInstance<IRegionManager>(scopedRegionManagerName, instance);
+            _container.RegisterInstance<IRegionManager>(scopedRegionManagerName, instance,new  ContainerControlledLifetimeManager());
 
             return instance;
         }

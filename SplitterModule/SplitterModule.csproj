@@ -82,7 +82,6 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SplitRegionManager.cs" />
     <Compile Include="ViewModel\ISplitterViewModel.cs" />
     <Compile Include="View\ISplitterUC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">

@@ -28,7 +28,7 @@ namespace UltimateServiceMocker.Modules
        
         public void Initialize()
         {
-            _container.RegisterType<SplitterUC>();
+            
             _container.RegisterType<ISplitterViewModel, SplitterViewModel>();
             _container.RegisterType<ISplitterUC, SplitterUC>();
 

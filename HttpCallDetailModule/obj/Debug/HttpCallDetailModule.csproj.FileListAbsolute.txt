@@ -37,3 +37,33 @@ D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocke
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.csproj.GenerateResource.Cache
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.dll
 D:\Ganesh Nemade\Projects\TestProjects\ServiceMockerProject\UltimateServiceMocker\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.pdb
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\HttpCallDetailModule.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\HttpCallDetailModule.pdb
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Unity.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\UltimateServiceMocker.Infrastructure.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\System.Windows.Interactivity.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\UltimateServiceMocker.Infrastructure.pdb
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Unity.xml
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.csprojResolveAssemblyReference.cache
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.Properties.Resources.resources
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.csproj.GenerateResource.Cache
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.dll
+D:\UltimateServiceMocker\solution\HttpCallDetailModule\obj\Debug\HttpCallDetailModule.pdb

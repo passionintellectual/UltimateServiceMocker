@@ -18,7 +18,8 @@ namespace UltimateServiceMocker.Modules
 
         }
 
-        public   void Initialise(){
+        public override void Initialize()
+        {
 
             var tabVM = _container.Resolve<ITabsViewModel>();
             _regionManagerHelper.AddChildView(RegionNames.SplitterRegionManager, RegionNames.SplitterRegion2, tabVM);

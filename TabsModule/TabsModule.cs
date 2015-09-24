@@ -16,7 +16,7 @@ namespace UltimateServiceMocker.Modules
     public class TabsModule:ModuleBase
     {
 
-        public TabsModule(UnityContainer container, IRegionManagerHelper regionManagerProvider)
+        public TabsModule(IUnityContainer container, IRegionManagerHelper regionManagerProvider)
             : base(container, regionManagerProvider)
         {
 

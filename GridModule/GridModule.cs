@@ -4,21 +4,21 @@ using Microsoft.Practices.Prism.Modularity;
 using Microsoft.Practices.Prism.Regions;
 using Microsoft.Practices.Unity;
 using UltimateServiceMocker.Infrastructure;
+using UltimateServiceMocker.Infrastructure.Core.PrismHelper;
 namespace UltimateServiceMocker.Modules
 {
-    public class GridModule : IModule
+    public class GridModule : ModuleBase
     {
         private IUnityContainer _container;
-        private IRegionManager _manager;
+        private IRegionManagerHelper _mgrHelper;
         
-        public GridModule(IUnityContainer container)
+        public GridModule(IUnityContainer container, IRegionManagerHelper regionMgrHelper):base(container, regionMgrHelper)
         {
             _container = container;
-            
-            _manager = _container.Resolve<IRegionManager>(RegionNames.SplitterRegionManager);
-        }
+            _mgrHelper = regionMgrHelper;
+                     }
 
-        public void Initialize()
+        public override void Initialize()
         {
            
             _container.RegisterType<GridUC>();
@@ -27,8 +27,8 @@ namespace UltimateServiceMocker.Modules
             IViewModel vm = _container.Resolve<IGridViewModel>();
             // _manager.Regions[RegionNames.SplitterRegion2].Add(vm.View);
             // SplitterModule.mgr.Regions[RegionNames.SplitterRegion2].Add(vm.View);
-            _manager.Regions[RegionNames.SplitterRegion1].Add(vm.View);
-
+            //_mgrHelper.Regions[RegionNames.SplitterRegion1].Add(vm.View);
+            _mgrHelper.AddChildView(RegionNames.SplitterRegionManager, RegionNames.SplitterRegion1, vm);
         }
     }
 }

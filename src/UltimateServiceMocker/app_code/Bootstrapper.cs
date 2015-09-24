@@ -65,6 +65,13 @@ namespace UltimateServiceMocker
                 ModuleType = gridModuleType.AssemblyQualifiedName,
                 InitializationMode = InitializationMode.WhenAvailable
             });
+            Type tabsModuleType = typeof(UltimateServiceMocker.Modules.TabsModule);
+            ModuleCatalog.AddModule(new ModuleInfo()
+            {
+                ModuleName = tabsModuleType.Name,
+                ModuleType = tabsModuleType.AssemblyQualifiedName,
+                InitializationMode = InitializationMode.WhenAvailable
+            });
 
             Type httpCallsDetailModuleType = typeof(UltimateServiceMocker.Modules.HttpCallDetailModule);
             ModuleCatalog.AddModule(new ModuleInfo()
@@ -74,14 +81,7 @@ namespace UltimateServiceMocker
                 InitializationMode = InitializationMode.WhenAvailable
             });
 
-            Type tabsModuleType = typeof(UltimateServiceMocker.Modules.TabsModule);
-            ModuleCatalog.AddModule(new ModuleInfo()
-            {
-                ModuleName = tabsModuleType.Name,
-                ModuleType = tabsModuleType.AssemblyQualifiedName,
-                InitializationMode = InitializationMode.WhenAvailable
-            });
-
+         
 
         }
     }
